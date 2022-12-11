@@ -23,4 +23,4 @@ function multiply(a, b){
 ## Education
 Economy. There is currently no education in the field of IT.
 ## English language
-B1
+:white_check_mark:B1
